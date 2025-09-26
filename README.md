@@ -14,7 +14,7 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 | Question 3 | Your answers to the question | 25% |
 
 ## Summary
-We learned implement two circuits using minterms and maxterms from given truth tables, then assigned the logic through the top file and assign the physical parts through the constraints file.
+We how to learned implement two circuits using minterms and maxterms from given truth tables, then assigned the logic through the top file and assign the physical parts through the constraints file.
 
 ## Lab Questions
 
