@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/be/Desktop/ece/Lab-05-Combinatorial-Logic/Lab-05-Combinatorial-Logic.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/be/Desktop/ece/Lab-05-Combinatorial-Logic/circuit_a.v,1758901393,verilog,,C:/Users/be/Desktop/ece/Lab-05-Combinatorial-Logic/circuit_b.v,,circuit_a,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/be/Desktop/ece/Lab-05-Combinatorial-Logic/circuit_b.v,1758900471,verilog,,C:/Users/be/Desktop/ece/Lab-05-Combinatorial-Logic/test.v,,circuit_b,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/be/Desktop/ece/Lab-05-Combinatorial-Logic/test.v,1758506410,verilog,,,,test,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
